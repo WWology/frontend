@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335770504017",
+    "project_id": "gkaelyon-4fb9a",
+    "storage_bucket": "gkaelyon-4fb9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335770504017:android:5f8c284fb4cff6d7e22170",
+        "android_client_info": {
+          "package_name": "com.gkaelyon.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HpUc2G3Cpm7mQumVgzrVTFpH6YIuQiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
